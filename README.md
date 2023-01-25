@@ -1,7 +1,7 @@
 # Hole-in-One--Golf--2022
 ## 3D "Animation" Hole in One 
 
-### **I recommend use VS Code**
+### **Please use VS Code**
 
 ##### **Follow instructions and use this commands in terminal:**
 
